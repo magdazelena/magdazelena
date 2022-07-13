@@ -1,6 +1,6 @@
 # ✨ ✨ ✨ 
 
-Hi, I'm Magda. I'm a Senior Front End Dev. I do WebGL too.
+Hi, I'm Magda. I'm a Senior Fullstack Dev. I do WebGL too.
 
 - I do some creative coding I post on [insta](https://www.instagram.com/magdazelezik/)
 - I do some mentoring for begginer programmer women via [Programuj, dziewczyno](https://www.wakeupandcode.pl/programuj-dziewczyno/) support group
